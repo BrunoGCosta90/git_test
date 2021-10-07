@@ -1,1 +1,1 @@
-This is Bruno's first gir project!
+This is Bruno's first git project!
